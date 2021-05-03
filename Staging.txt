@@ -7,4 +7,4 @@ Python3
 PIP3
 
     ***Packages***
-bs4
+requests, re
