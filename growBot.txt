@@ -19,3 +19,9 @@ ability to add custom parameters in a separate config file.
 In addition to providing my code, I will also make drawings of any physical 
 components (i.e. 3D printed parts, wooden structure, wiring diagrams, etc.).
 
+Raspberry Pi is not  capable of running a stepper motor without a hat. I thought
+I could make something work with the electronics on hand, but I think it will be
+significantly easier to run an Arduino and RAMPS v1.4 that I have from a 
+previous project. I will reduce and simplify this later, but I would like to get
+this project functional. I will include the C++ source used on the Arduino as 
+well.
