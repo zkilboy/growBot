@@ -3,6 +3,7 @@
 #growBot: House Plant Life Support
 
 from datetime import datetime
+from rpi.GPIO import GPIO
 import requests, re
 
 ua = "Chrome/44.0.2403.157"
