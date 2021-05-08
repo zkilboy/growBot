@@ -11,6 +11,7 @@ timeFindWide = re.compile('>\d.?.?.?.?.?.?M</div>')
 timeFindFine = re.compile('\d.+M')
 googleSearch = "https://www.google.com/search?q="
 now = datetime.now().strftime('%H:%M')
+#define GPIO pins, light relay, etc.
 
 def webPull(url):
     session = requests.Session()

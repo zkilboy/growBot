@@ -5,7 +5,7 @@
 #define X_MIN_PIN           3
 #define X_MAX_PIN          -1 
 //PIN 2 is used
-
+//Find endstop switch pins!!
 //extruder 1
 #define E0_STEP_PIN        26
 #define E0_DIR_PIN         28
